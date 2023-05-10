@@ -35,15 +35,15 @@ Below are visualizations that we believe shed light on these points.  For additi
 
 
 **Genres by Audience Favorability and Return on Investment**
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/8d2e2f57-a72c-4e00-8c29-d859c3f3c33c)
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/5ab83df7-8517-489f-984d-efb9ba2b2f36)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/31b5b674-e51b-4b89-b2b7-3956506cd488)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/d26653b5-f054-45f8-8563-6f4b0dfba525)
 ![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/ff4e156e-e4ed-456f-ad32-3e8d3bcd7238)
 *In comparing the graphs, we believe it may be worthwhile for a company to pursue a genre with high average rating as well as high average return on investment. We suggest a company entering the movie industry pursue movies in the 'animation' genre as these films yield high median audience ratings as well as high return on investments.*
 
 **Relationship between Movie Release Month and Return on Investment**
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/4369357c-9d50-4bc3-ba42-e4d0465d37b9)
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/dd7a356b-e378-4a03-88b4-5b4d9ddcb934)
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/f85f9fe9-e835-4ffc-bcd5-7b88f28d0958)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/a3343dd7-2cf9-4fdf-90a6-103afcf7b8e0)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/21627e14-1fe5-4bdd-8dd4-ad6a30b77bda)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/4d66462b-02ce-43d3-9d94-bc984d855f4c)
 *Based on our analysis of this data, we believe June to be the best month to release a movie to see a higher ROI and a safer month to choose for a company entering the movie industry. We went a step further with our third chart below to map out ROIs for movies released in June by genre. This doubles down on our findings above that a company looking to enter the market and plan for a June release should focus on the 'animation' genre.*
 
 **Market Share by Genre Overtime**
