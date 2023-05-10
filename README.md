@@ -47,7 +47,7 @@ Below are visualizations that we believe shed light on these points.  For additi
 *Based on our analysis of this data, we believe June to be the best month to release a movie to see a higher ROI and a safer month to choose for a company entering the movie industry. We went a step further with our third chart below to map out ROIs for movies released in June by genre. This doubles down on our findings above that a company looking to enter the market and plan for a June release should focus on the 'animation' genre.*
 
 **Market Share by Genre Overtime**
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/46418f1e-679a-4def-b1b0-28f637d0ce39)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/30f9c117-ee96-4af2-8a77-5847732195ea)
 *Animation proves to be an optimal choice for investment given its growing market share*
 
 ## Recommendations
