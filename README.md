@@ -43,8 +43,9 @@ Below are visualizations that we believe shed light on these points.  For additi
 **Relationship between Movie Release Month and Return on Investment**
 ![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/a3343dd7-2cf9-4fdf-90a6-103afcf7b8e0)
 ![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/21627e14-1fe5-4bdd-8dd4-ad6a30b77bda)
-![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/4d66462b-02ce-43d3-9d94-bc984d855f4c)
-*Based on our analysis of this data, we believe June to be the best month to release a movie to see a higher ROI and a safer month to choose for a company entering the movie industry. We went a step further with our third chart below to map out ROIs for movies released in June by genre. This doubles down on our findings above that a company looking to enter the market and plan for a June release should focus on the 'animation' genre.*
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/32468677/f031e473-05a3-4c8b-afd1-29fc029fd9a2)
+![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/32468677/9a75a993-fa5e-4e15-bafb-d462dbc9a890)
+*Based on our analysis of this data, we believe July to be the best month to release an animated movie to see a higher ROI and a safer month to choose for a company entering the movie industry. Although June looks like a better month, overall, when removing outliers, we see that the ROI is not quite as strong compared with some other months. So we went a step further with our third chart to map out ROIs specifically for animated movies, and found July to have the strongest ROI. Then looking specifically at July ROI's across genre's this doubles down on our findings above that a company looking to enter the market and plan for a July release should focus on the 'animation' genre. Horror being the only genre with a higher ROI in July, but as we saw earlier, much poorer ratings.*
 
 **Market Share by Genre Overtime**
 ![image](https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/assets/130595612/30f9c117-ee96-4af2-8a77-5847732195ea)
