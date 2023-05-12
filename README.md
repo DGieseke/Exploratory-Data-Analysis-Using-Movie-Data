@@ -83,7 +83,7 @@ Below are visualizations that we believe shed light on these points.  For additi
 
   <b>seamus folder</b> This folder houses Seamus's working documents.
   
-  <b>Exploring Movie Data Project - Slide Deck - 05.12.2023</b> This file is a slide deck covering our analysis.
+  <b>Presentation.pdf</b> This file is a slide deck covering our analysis.
   
   <b>Final Edit - Movie Data Visualization File</b> This file contains our analyses, code, narrative, and visualizations.
   
