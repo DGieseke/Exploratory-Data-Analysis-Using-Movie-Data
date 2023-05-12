@@ -7,6 +7,15 @@
 ## Overview
 Media companies in the entertainment industry hold a wealth of movie data waiting to be analyzed.  These large amounts of movie industry data include information on budgets, gross income, genre popularity, and audience ratings among others.  In this project we have cleaned, mapped, and analyzed movie industry data to understand the direction an upcoming movie production company should take to maximize profits and popularity.  For this project we have focused on general movie data from IMDB as well as movie budget and income data from 'The Numbers'.
 
+## Project and Data Links
+<a href="https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/blob/main/Final%20Edit%20-%20Movie%20Data%20Visualization%20Project.ipynb">Main Project File</a>
+
+<a href="https://github.com/DGieseke/Exploratory-Data-Analysis-Using-Movie-Data/blob/main/Exploring%20Movie%20Data%20Project%20-%20Slide%20Deck%20-%2005.12.2023.pdf">Project Slide Deck</a>
+
+<a href="https://www.the-numbers.com/">Data Source: The Numbers</a>
+
+<a href="https://www.imdb.com/">Data Source: IMDB</a>
+
 ## Business Understanding
 For this project we have assumed Microsoft, a large technology company with an immense amount of capital, has decided to open a movie studio; we have prepared our analyses and recommendations accordingly.  Throughout this project we honed in on data that we believe answers the following for the tech giant:
 <ul>
@@ -68,5 +77,16 @@ Below are visualizations that we believe shed light on these points.  For additi
 <li>Types of animation?
 <li>Where should the money go?
 <li>Social factors?
+
+## Repository Structure
+  <b>daniel folder</b> This folder houses Daniel's working documents.
+
+  <b>seamus folder</b> This folder houses Seamus's working documents.
+  
+  <b>Exploring Movie Data Project - Slide Deck - 05.12.2023</b> This file is a slide deck covering our analysis.
+  
+  <b>Final Edit - Movie Data Visualization File</b> This file contains our analyses, code, narrative, and visualizations.
+  
+  <b>README.md</b> This is the file you are reading now that gives an overview of our project.
 
 
