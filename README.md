@@ -80,9 +80,13 @@ Below are visualizations that we believe shed light on these points.  For additi
 
 ## Repository Structure
   <b>daniel folder</b> This folder houses Daniel's working documents.
+
   <b>seamus folder</b> This folder houses Seamus's working documents.
+  
   <b>Exploring Movie Data Project - Slide Deck - 05.12.2023</b> This file is a slide deck covering our analysis.
+  
   <b>Final Edit - Movie Data Visualization File</b> This file contains our analyses, code, narrative, and visualizations.
+  
   <b>README.md</b> This is the file you are reading now that gives an overview of our project.
 
 
